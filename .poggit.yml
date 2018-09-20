@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ig000craft/sw
+branches:
+- master
+projects:
+  SkyWarsBE-master:
+    path: SkyWarsBE-master/
+...
